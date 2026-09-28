@@ -7,3 +7,5 @@ from attacks.attacks import (
     save_attack_results,
     write_run_attack_json,
 )
+from attacks.dynamic_attack_generator import DynamicAdversarialGenerator
+
